@@ -1,2 +1,2 @@
 # Allbot Emulator
-`A Quarkonium Utilities System Emulator`
+`A Quarkonium Dapps Emulator`
