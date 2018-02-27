@@ -1,2 +1,2 @@
-# emulator
-The Utilities System Emulator for Quarkonium
+# Allbot Emulator
+`A Quarkonium Utilities System Emulator`
